@@ -1,2 +1,2 @@
 # CodingGame-Solutions
-A repository that holds solutions to codinggame puzzles
+A repository that holds my solutions to CodingGame puzzles
